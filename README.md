@@ -2,11 +2,11 @@
 
 ## Changelog
    
-   5/9/22 
-   Created Project
-   ###Team Scrape
-        Document Created
-        Libraries and initial URLs located from Basketball Reference
+   \n5/9/22 
+   \nCreated Project
+   \n###Team Scrape
+        \n\tDocument Created
+        \n\tLibraries and initial URLs located from Basketball Reference
    
    
    
